@@ -35,4 +35,4 @@ Based on a method described by mathematician James Propp, we can also estimate Ï
 ## ðŸ“Š Sample Output
 - **Simulations:** 5000
 - **Estimated Pi:** 3.1412
-- **Error:** 1.39
+- **Error:** 0.0039
